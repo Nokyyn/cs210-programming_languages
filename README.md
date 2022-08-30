@@ -1,1 +1,2 @@
-# cs210-programming_languages
+# CS-210: Programming Languages
+## Southern New Hampshire University
